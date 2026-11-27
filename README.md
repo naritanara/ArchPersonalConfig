@@ -4,7 +4,7 @@ Some of my settings on Arch, uploaded mainly for sync across my devices
 ## How to use
 This repository includes settings for different programs, but none of them will change automatically (you must activate the settings for each of them). First, clone the repository to a suitable location:
 ```bash
-git clone https://github.com/rdvdev2/ArchPersonalConfig ~/.synced_config
+git clone https://github.com/naritanara/ArchPersonalConfig ~/.synced_config
 ```
 Some of the files expect the repository to be cloned in `~/.synced_config`, so I recommend against changing the above command unless you're willing to fiddle with all the files.
 With the repository cloned, now you can activate the configuration for different applications
